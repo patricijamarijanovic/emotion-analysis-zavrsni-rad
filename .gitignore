@@ -70,3 +70,12 @@ proba/bert/results/checkpoint-500/tokenizer_config.json
 proba/bert/results/checkpoint-500/trainer_state.json
 proba/bert/results/checkpoint-500/training_args.bin
 proba/bert/results/checkpoint-500/vocab.txt
+proba/bert/spremljeni_model/config.json
+proba/bert/spremljeni_model/model.safetensors
+proba/bert/spremljeni_model/special_tokens_map.json
+proba/bert/spremljeni_model/tokenizer.json
+proba/bert/spremljeni_model/tokenizer_config.json
+proba/bert/spremljeni_model/training_args.bin
+proba/bert/spremljeni_model/vocab.txt
+proba/gru/moj_model.keras
+proba/gru/tokenizer.json
