@@ -79,3 +79,11 @@ proba/bert/spremljeni_model/training_args.bin
 proba/bert/spremljeni_model/vocab.txt
 proba/gru/moj_model.keras
 proba/gru/tokenizer.json
+proba/bert_bigger_dataset/spremljeni_model/vocab.txt
+proba/bert_bigger_dataset/spremljeni_model/tokenizer_config.json
+proba/bert_bigger_dataset/spremljeni_model/tokenizer.json
+proba/bert_bigger_dataset/spremljeni_model/special_tokens_map.json
+proba/bert_bigger_dataset/spremljeni_model/model.safetensors
+proba/bert_bigger_dataset/spremljeni_model/training_args.bin
+proba/bert_bigger_dataset/spremljeni_model/config.json
+proba/bert/logs/events.out.tfevents.1746952742.MacBook-Air-od-Patricija.local.82325.0
